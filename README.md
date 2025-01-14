@@ -16,7 +16,13 @@ GeeksforGeeks provides a "Problem of the Day" challenge, offering a fantastic op
 
 ## 🛠️ Repository Structure
 
-Each problem is stored in a separate directory for better organization. The structure is as follows:  
+Each problem is stored in a separate directory for better organization. The structure is as follows:
+
+Directory-with-their-date 
+
+  > ProblemExplanation file
+  
+  > Java File
 
 ---
 
